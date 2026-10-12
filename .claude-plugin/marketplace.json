@@ -1,0 +1,15 @@
+{
+  "name": "occam-plugins",
+  "description": "Occam token-optimization plugin for Claude Code and omp",
+  "owner": {
+    "name": "danfebra"
+  },
+  "plugins": [
+    {
+      "name": "occam",
+      "source": "./plugins/occam",
+      "description": "Occam token-optimization layer for Claude Code and omp",
+      "category": "development"
+    }
+  ]
+}

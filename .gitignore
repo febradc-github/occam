@@ -1,0 +1,6 @@
+node_modules/
+*.log
+
+# Written by Claude Code when the mod is loaded with --plugin-dir in an interactive session
+plugins/occam/.claude-plugin/types/
+plugins/occam/tsconfig.json

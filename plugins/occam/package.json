@@ -1,0 +1,10 @@
+{
+  "name": "occam",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Occam token-optimization layer for Claude Code and omp",
+  "omp": {
+    "extensions": ["./dist/omp-extension.js"]
+  }
+}
